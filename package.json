@@ -1,0 +1,24 @@
+{
+  "name": "zadanie1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Owjeczka/zadanie1.git"
+  },
+  "author": "Klaudia Jędzura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Owjeczka/zadanie1/issues"
+  },
+  "homepage": "https://github.com/Owjeczka/zadanie1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^3.1.0"
+  }
+}
