@@ -1,4 +1,4 @@
-##Zadanie 3.
+## Zadanie 3.
 
 a. Zbudowanie opracowanego obrazu kontenera: `docker build . -t time-app`
 
@@ -8,7 +8,7 @@ c. Uzyskanie informacji, które wygenerował serwer w trakcie uruchamiana konten
 
 d. Sprawdzenie, ile warstw posiada zbudowany obraz: `docker history time-app`
 
-##Zadanie 4.
+## Zadanie 4.
 
 Zbudowanie obrazu wykorzystując bezpośredni link do Dockerfile umieszczonego na GitHub: `docker build (UrlDoRepozytoriumNaGitHub)`
 
